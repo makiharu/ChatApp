@@ -1,12 +1,13 @@
-# Getting Started with Create React App
+# React × Firebase × Material-UIでチャットボットを作る講座
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 使用技術
 
-In the project directory, you can run:
+React, FireBase, Material-UI
 
-### `yarn start`
+## 作成手順
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,10 +15,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 環境構築
+create-react-appコマンドでReact appを作成。
+Material-UIを導入する。
+https://material-ui.com/
 
 ### `yarn build`
 
