@@ -1,8 +1,3 @@
-# React × Firebase × Material-UIでチャットボットを作る講座
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## 使用技術
 
 React, FireBase, Material-UI
